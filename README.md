@@ -1,5 +1,5 @@
 # About Me
-Computer Science Student trying to find the time to squeeze in personal projects in between classes, family, and campus activities.
+Computer Science student trying to find the time to squeeze in personal projects in between classes, family, and campus activities.
 <!--
 **ReeceW18/ReeceW18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
