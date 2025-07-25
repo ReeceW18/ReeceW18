@@ -1,5 +1,12 @@
 # About Me
 Computer Science student trying to find the time to squeeze in personal projects.
+
+## Recent Work
+Sorter: https://github.com/ReeceW18/Sorter
+CLI allowing for user to subjectively sort a list
+
+Meal Assistant: https://github.com/ReeceW18/MealAssistant
+CLI where user creates a database of meals they commonly eat with information about them. Program recommends meals based on stored information
 <!--
 **ReeceW18/ReeceW18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
